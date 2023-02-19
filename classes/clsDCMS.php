@@ -1,13 +1,13 @@
 <?php
 	class DistributedCMS{
-		var $RemoteServer="bubblecms.biz/";
+		var $RemoteServer="creativeweblogic.net/";
 		var $BaseCacheDirectory="cache/";
 		var $BaseDomainCacheDirectory="../cache/";
 		var $current_dir="";
 		var $current_back_dir="";
 		var $LocalServer;
 		var $RequestUnCachedFiles=true;
-		var $RemoteServerIP="192.185.163.188";
+		var $RemoteServerIP="50.116.93.232";
 		var $ForbiddenExtensions=array();
 		var $useragent="curl";
 		var $cookieFile = "cookies.txt";
