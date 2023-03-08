@@ -1,13 +1,13 @@
 <?php
 	class DistributedCMS{
-		var $RemoteServer="creativeweblogic.net/";
+		var $RemoteServer="remote.businesswebsites.club/";
 		var $BaseCacheDirectory="cache/";
 		var $BaseDomainCacheDirectory="../cache/";
 		var $current_dir="";
 		var $current_back_dir="";
 		var $LocalServer;
 		var $RequestUnCachedFiles=true;
-		var $RemoteServerIP="50.116.93.232";
+		var $RemoteServerIP="142.132.144.12";
 		var $ForbiddenExtensions=array();
 		var $useragent="curl";
 		var $cookieFile = "cookies.txt";
