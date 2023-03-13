@@ -1,6 +1,7 @@
 <?php
 	class DistributedCMS{
 		var $RemoteServer="remote.businesswebsites.club/";
+		var $RemoteServer="creativeweblogic.net/";
 		var $BaseCacheDirectory="cache/";
 		var $BaseDomainCacheDirectory="../cache/";
 		var $current_dir="";
