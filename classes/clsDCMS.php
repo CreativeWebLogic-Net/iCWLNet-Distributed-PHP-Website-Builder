@@ -4,7 +4,7 @@
 		var $RemoteServer="access.sitemanage.info/";
 		var $BaseCacheDirectory="cache/";
 		var $BaseDomainCacheDirectory="../cache/";
-      	var $DomainCacheDirectory="";
+      		var $DomainCacheDirectory="";
 		var $current_dir="";
 		var $current_back_dir="";
 		var $LocalServer;
